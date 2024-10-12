@@ -1,3 +1,5 @@
+//divyansh rastogi
+//23070123048
 #include<iostream>
 #include<string>
 using namespace std;
@@ -20,3 +22,7 @@ int main(){
     d.discipline();
     cout << d.university << " " << d.department << endl;
     return 0; }
+/*output:-
+Engineering
+Symbiosis: Electronics & Communication
+    */

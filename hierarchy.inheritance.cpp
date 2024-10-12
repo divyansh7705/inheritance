@@ -1,3 +1,5 @@
+// divyansh rastogi
+// 23070123048
 #include<iostream>
 #include<string>
 using namespace std;
@@ -31,6 +33,15 @@ int main(){
     cout<<endl;
     j2.brand();
     cout<<j2.type[1]<<":"<<j2.colour<<endl;
+
+    
+/* output:-
+H&M - &Denim
+Bootcut: Dark Blue
+
+H&M - &Denim
+Wide leg:Black
+    */
 
 
    

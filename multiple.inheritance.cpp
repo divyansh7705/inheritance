@@ -1,3 +1,5 @@
+//divyansh rastogi
+//23070123048
 #include<iostream>
 #include<string>
 using namespace std;
@@ -31,3 +33,9 @@ int main(){
     cout<<"("<<f2.seater<<")"<<endl<<"MILEAGE:"<<f2.mileage<<endl;
     return 0; 
 }
+/* output:
+Grey
+Ford Mustang
+(4 seater)
+MILEAGE:8kmpl
+    */

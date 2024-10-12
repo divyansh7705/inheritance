@@ -1,3 +1,5 @@
+//divyansh rastogi
+//23070123048
 #include<iostream>
 #include<string>
 using namespace std;
@@ -28,3 +30,8 @@ int main(){
     cout<< "Restaurant: "<<f3.name<<endl;
     return 0; 
 }
+/* output:
+Asian
+Indian: Biryani
+Restaurant: Spice Kitchen
+*/
